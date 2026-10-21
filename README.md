@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/pi-hole/graphics/refs/heads/master/Vortex/vortex_with_text.svg" alt="Pi-hole logo" width="80" height="128">
   </a>
   <br>
-  <strong>Network-wide ad blocking via your own Linux hardware</strong>
+  <strong>Network-wide ad blocking via your own Linux hardware with defaul deny all</strong>
   <br>
   <br>
   <a href="https://pi-hole.net/">
