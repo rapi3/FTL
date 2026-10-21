@@ -1771,7 +1771,7 @@ static bool check_domain_blocked(const char *domain,
 
 	// DEFAULT DENY: not found on any list -> block
 	*new_status = QUERY_DENYLIST;
-	blockingreason = "default deny (not on any list)";
+	blockingreason = "default deny";
 	return true;
 }
 
