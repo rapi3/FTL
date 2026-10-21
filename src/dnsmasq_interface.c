@@ -1769,8 +1769,10 @@ static bool check_domain_blocked(const char *domain,
 		return true;
 	}
 
-	// Not blocked because not found on any list
-	return false;
+	// DEFAULT DENY: not found on any list -> block
+	*new_status = QUERY_DENYLIST;
+	blockingreason = "default deny (not on any list)";
+	return true;
 }
 
 // Special domain checking
