@@ -3,7 +3,15 @@
     <img src="https://raw.githubusercontent.com/pi-hole/graphics/refs/heads/master/Vortex/vortex_with_text.svg" alt="Pi-hole logo" width="80" height="128">
   </a>
   <br>
-  <strong>Network-wide ad blocking via your own Linux hardware with default deny all</strong>
+  <strong>Network-wide ad blocking via your own Linux hardware with:</strong>
+  <br>
+  <br>
+  <strong>Default deny all !</strong>
+  <br>
+<strong>Why ?<br>
+  <br>Made for LGTV and all other devices that talk to much without your consent.</strong><br>
+  <strong>No need to search and update blacklists !</strong><br>  
+  <strong>Whitelist only what you want to pass, everything else it is blocked by default !</strong><br>
   <br>
   <br>
   <a href="https://pi-hole.net/">
