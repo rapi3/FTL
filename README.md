@@ -8,8 +8,11 @@
   <br>
   <strong>Default deny all !</strong>
   <br>
-<strong>Why ?<br>
-  <br>Made for LGTV and all other devices that talk to much without your consent.</strong><br>
+  <br>
+  <strong>Ready to test with your existing configuration, nothing else it is changed !</strong><br>
+  <br>
+  <strong>Why ?<br>
+  <br>Made for TVs and all other devices that talk to much without your consent.</strong><br>
   <strong>No need to search and update blacklists !</strong><br>  
   <strong>Whitelist only what you want to pass, everything else it is blocked by default !</strong><br>
   <br>
